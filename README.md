@@ -31,6 +31,6 @@ If Yes, you have arrived at the right place. I spend a lot of time reading paper
 Give a 🌟 if this repo helped you! 
 
 ## LICENSE: 
-Feel free to use the material but please do cite the source.  
+Free  
 
 ### ✍️Note: This is a work in progress 🚧   !!! Subscribe & will keep you updated.  Stay Tuned 😊
