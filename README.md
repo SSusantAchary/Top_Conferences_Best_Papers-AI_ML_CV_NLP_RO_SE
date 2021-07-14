@@ -27,5 +27,10 @@ If Yes, you have arrived at the right place. I spend a lot of time reading paper
 
 
 
+## Show your support
+Give a 🌟 if this repo helped you! 
 
-### ✍️Note: This is a work in progress 🚧   !!! Follow me & will keep you updated.  Stay Tuned 😊
+## LICENSE: 
+Feel free to use the material but please do cite the source.  
+
+### ✍️Note: This is a work in progress 🚧   !!! Subscribe & will keep you updated.  Stay Tuned 😊
