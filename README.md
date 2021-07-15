@@ -37,6 +37,23 @@ If Yes, you have arrived at the right place. I spend a lot of time reading paper
 |NIPS-NeurIPS|Language Models are Few-Shot Learners|2020|[LMFSL](https://github.com/SSusantAchary/Top_Conferences_Best_Papers-AI_ML_CV_NLP_RO_SE/blob/main/Machine_Learning/NIPS-NeurIPS/Language%20Models%20are%20Few-Shot%20Learners_2020.pdf)|
 ||No-Regret Learning Dynamics for Extensive-Form Correlated Equilibrium|2020|[LDEFCE](https://github.com/SSusantAchary/Top_Conferences_Best_Papers-AI_ML_CV_NLP_RO_SE/blob/main/Machine_Learning/NIPS-NeurIPS/No-Regret%20Learning%20Dynamics%20for%20Extensive-Form%20Correlated%20Equilibrium_2020.pdf)|
 
+# _NLP_
+
+|Conference|Paper_Name|Year|Link|
+|----------|----------|----|----|
+|ACL|Vocabulary Learning via Optimal Transport for Neural Machine Transalation|2021|[VLOT-NMT](https://github.com/SSusantAchary/Top_Conferences_Best_Papers-AI_ML_CV_NLP_RO_SE/blob/main/NLP/ACL/Vocabulary%20Learning%20via%20Optimal%20Transport%20for%20Neural%20Machine%20Transalation_2021.pdf)|
+||Beyond Accuracy-Behavioral Testing of NLP Models with CheckList|2020|[BA-BTNLP](https://github.com/SSusantAchary/Top_Conferences_Best_Papers-AI_ML_CV_NLP_RO_SE/blob/main/NLP/ACL/Beyond%20Accuracy-Behavioral%20Testing%20of%20NLP%20Models%20with%20CheckList_2020.pdf)|
+||Bridging the Gap between Training and Inference for Neural Machine Transalation|2019|[BGTT-NMT](https://github.com/SSusantAchary/Top_Conferences_Best_Papers-AI_ML_CV_NLP_RO_SE/blob/main/NLP/ACL/Bridging%20the%20Gap%20between%20Training%20and%20Inference%20for%20Neural%20Machine%20Transalation_2019.pdf)|
+|SIGNLL|Acquiring language from speech by learning to remember and predict|2020|[ALS-LRP](https://github.com/SSusantAchary/Top_Conferences_Best_Papers-AI_ML_CV_NLP_RO_SE/blob/main/NLP/SIGNLL/Acquiring%20language%20from%20speech%20by%20learning%20to%20remember%20and%20predict_2020.pdf)|
+
+# _SOFTWARE ENGINEERING_
+
+|Conference|Paper_Name|Year|Link|
+|----------|----------|----|----|
+|ACM|Deep Learning Library Testing via Effective Model Generation|2020|[DLLT-EMG](https://github.com/SSusantAchary/Top_Conferences_Best_Papers-AI_ML_CV_NLP_RO_SE/blob/main/Software_Engineering/ACM/Deep%20Learning%20Library%20Testing%20via%20Effective%20Model%20Generation_2020.pdf)|
+||On Decomposing a Deep Neural Network into Modules|2020|[DNNM](https://github.com/SSusantAchary/Top_Conferences_Best_Papers-AI_ML_CV_NLP_RO_SE/blob/main/Software_Engineering/ACM/On%20Decomposing%20a%20Deep%20Neural%20Network%20into%20Modules_2020.pdf)|
+|FSE|A principled approach to GraphQL query cost analysis|2020|[GQL-CA](https://github.com/SSusantAchary/Top_Conferences_Best_Papers-AI_ML_CV_NLP_RO_SE/blob/main/Software_Engineering/FSE/A%20principled%20approach%20to%20GraphQL%20query%20cost%20analysis_2020.pdf)|
+
 ## Show your support
 Give a 🌟 if this repo helped you! 
 
@@ -44,4 +61,3 @@ Give a 🌟 if this repo helped you!
 Free  
 
 ### ✍️Note: This is a work in progress 🚧   !!! Subscribe & will keep you updated.  Stay Tuned 😊
->>>>>>> 4f0f45b063cb8ebb49c3c2da382062ee3928bde9
