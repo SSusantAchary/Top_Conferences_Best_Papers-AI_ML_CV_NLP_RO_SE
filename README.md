@@ -25,7 +25,6 @@ If Yes, you have arrived at the right place. I spend a lot of time reading paper
 ||From Large Scale Image Categorization to Entry-Level Categories|2013|[LSIC](https://github.com/SSusantAchary/Top_Conferences_Best_Papers-AI_ML_CV_NLP_RO_SE/blob/main/Computer_Vision/ICCV/From%20Large%20Scale%20Image%20Categorization%20to%20Entry-Level%20Categories%202013.pdf)
 ||SinGAN-Learning a Generative Model From a Single Natural Image|2019|[SinGAN](https://github.com/SSusantAchary/Top_Conferences_Best_Papers-AI_ML_CV_NLP_RO_SE/blob/main/Computer_Vision/ICCV/SinGAN-Learning%20a%20Generative%20Model%20From%20a%20Single%20Natural%20Image_2019.pdf)
 
-<<<<<<< HEAD
 # _Machine Learning_
 
 |Conference|Paper_Name|Year|Link|
@@ -37,8 +36,6 @@ If Yes, you have arrived at the right place. I spend a lot of time reading paper
 ||Obfuscated Gradients Give a False Sense of Security- Circumventing Defenses to Adversarial Examples|2018|[CDAE](https://github.com/SSusantAchary/Top_Conferences_Best_Papers-AI_ML_CV_NLP_RO_SE/blob/main/Machine_Learning/ICML/Obfuscated%20Gradients%20Give%20a%20False%20Sense%20of%20Security-%20Circumventing%20Defenses%20to%20Adversarial%20Examples_2018.pdf)|
 |NIPS-NeurIPS|Language Models are Few-Shot Learners|2020|[LMFSL](https://github.com/SSusantAchary/Top_Conferences_Best_Papers-AI_ML_CV_NLP_RO_SE/blob/main/Machine_Learning/NIPS-NeurIPS/Language%20Models%20are%20Few-Shot%20Learners_2020.pdf)
 ||No-Regret Learning Dynamics for Extensive-Form Correlated Equilibrium|2020|[LDEFCE](https://github.com/SSusantAchary/Top_Conferences_Best_Papers-AI_ML_CV_NLP_RO_SE/blob/main/Machine_Learning/NIPS-NeurIPS/No-Regret%20Learning%20Dynamics%20for%20Extensive-Form%20Correlated%20Equilibrium_2020.pdf)
-=======
-
 
 ## Show your support
 Give a 🌟 if this repo helped you! 
